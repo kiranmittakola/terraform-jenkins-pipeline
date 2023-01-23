@@ -21,7 +21,7 @@ variable "key_pair" {
 
 variable "instance_type" { 
     description = "Instance type for the Jenkins server"
-    default = "t2.micro"
+    default = "t3.micro"
 }
 
 variable "tfe_api_token" {
