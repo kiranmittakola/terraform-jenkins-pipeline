@@ -50,7 +50,7 @@ variable "owner" {
 
 variable "hc_region" {
     description = "Sales region"
-    default = "NA-SOUTHEAST-ENT"
+    default = "AP-SOUTHEAST-ENT"
 }
 
 variable "purpose" {
